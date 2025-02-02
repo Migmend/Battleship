@@ -1,0 +1,50 @@
+.option-container {
+  width: 500px;
+  height: 50px;
+  margin: 30px 0;
+  background-color: yellow;
+  display: flex;
+  align-items: center;
+}
+
+.destroyer {
+  background-color: brown;
+}
+
+.submarine {
+  background-color: green;
+}
+
+.cruiser {
+  background-color: purple;
+}
+
+.battleship {
+  background-color: orange;
+}
+
+.carrier {
+  background-color: blue;
+}
+
+.ships {
+  height: 10px;
+  margin: 3px;
+}
+
+.destroyer-preview {
+  width: 20px;
+}
+
+.submarine-preview,
+.cruiser-preview {
+  width: 30px;
+}
+
+.battleship-preview {
+  width: 40px;
+}
+
+.carrier-preview {
+  width: 50px;
+}
