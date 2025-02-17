@@ -66,3 +66,23 @@
 .carrier-preview {
   width: 50px;
 }
+
+.hover {
+  background-color: grey;
+}
+
+#computer .destroyer,
+#computer .submarine,
+#computer .cruiser,
+#computer .battleship,
+#computer .carrier {
+  background-color: pink;
+}
+
+.boom {
+  background-color: red !important;
+}
+
+.empty {
+  background-color: grey !important;
+}
